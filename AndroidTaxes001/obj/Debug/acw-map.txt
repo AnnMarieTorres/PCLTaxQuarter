@@ -1,0 +1,4 @@
+AndroidTaxes001.MainActivity, AndroidTaxes001;md5146d65548ecf5a6f90cbce1c6187aa7b.MainActivity
+AndroidTaxes001.MainActivity, AndroidTaxes001, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5146d65548ecf5a6f90cbce1c6187aa7b.MainActivity
+AndroidTaxes001.MainActivity;md5146d65548ecf5a6f90cbce1c6187aa7b.MainActivity
+androidtaxes001.MainActivity;md5146d65548ecf5a6f90cbce1c6187aa7b.MainActivity

@@ -1,0 +1,9 @@
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.fs
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/obj/iPhoneSimulator/Debug/optimized/
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/bin/iPhoneSimulator/Debug/iOSTaxesApp001.exe.mdb
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/bin/iPhoneSimulator/Debug/iOSTaxesApp001.exe
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/obj/iPhoneSimulator/Debug/iOSTaxesApp001.exe
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/iOSTaxesApp001/obj/iPhoneSimulator/Debug/iOSTaxesApp001.exe.mdb

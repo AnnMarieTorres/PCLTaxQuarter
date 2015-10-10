@@ -1,0 +1,13 @@
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.fs
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/bin/Debug/AndroidTaxes001.dll.mdb
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/bin/Debug/AndroidTaxes001.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/bin/Debug/com.companyname.androidtaxes001.apk
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/android/bin/com.companyname.androidtaxes001.apk
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/res/layout/main.xml
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/res/values/strings.xml
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/res/drawable/icon.png
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/R.cs.flag
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/bin/Debug/com.companyname.androidtaxes001-Signed.apk
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/uploadflags.txt
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/AndroidTaxes001.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/AndroidTaxes001.dll.mdb

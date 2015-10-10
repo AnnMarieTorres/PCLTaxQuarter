@@ -1,0 +1,8 @@
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/AndroidTaxes001.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/System.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/System.Xml.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/mscorlib.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/FSharp.Core.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/Mono.Android.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/System.Core.dll
+/Users/macuser/Desktop/Project Copies/PCLTaxQuarter/AndroidTaxes001/obj/Debug/assemblies/System.Numerics.dll
